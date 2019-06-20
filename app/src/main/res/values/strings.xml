@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestRetrofitRizki</string>
+    <string name="api_key">8d8b59401ad932ba4a894b134244a83b</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
